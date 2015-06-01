@@ -1,2 +1,2 @@
 # UWHS
-R Dataset containing information on Unesco World Heritage Sites
+R Dataset containing information on UNESCO World Heritage Sites
