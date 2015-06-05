@@ -11,7 +11,7 @@ This is an **R** Dataset that contains information on the [**UNESCO World Herita
 - _c1_, _c2_, _c3_, _c4_, _c5_, _c6_ boolean values that indicate which [cultural criteria](http://whc.unesco.org/en/criteria/) apply to the site
 - _n7_, _n8_, _n9_, _n10_ boolean values that indicate which [natural criteria](http://whc.unesco.org/en/criteria/) apply to the site
 - _category_ the designation of whether the heritage site is a `natural` site, a `cultural` site, or, a `mixed`
-- _country_iso_2 a two-letter country code for which state the site resides; there are several sites that are trans-boundary sites, so this can consist of a space-separated list of two-letter country codes
+- _country_iso_2_ a two-letter country code for which state the site resides; there are several sites that are trans-boundary sites, so this can consist of a space-separated list of two-letter country codes
 - _unesco_region_ a **UNESCO**-defined global region
 
 ## Installation
