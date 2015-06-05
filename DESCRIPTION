@@ -1,5 +1,5 @@
 Package: UWHS
-Title: Dataset containing information on UNESCO World Heritage Sites.
+Title: Dataset Containing Information on UNESCO World Heritage Sites.
 Version: 0.1
 Authors@R: 'Richard Iannone <riannone@me.com> [aut,cre]'
 Description: Data for the UNESCO World Heritage Sites list.
