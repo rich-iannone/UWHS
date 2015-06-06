@@ -1,4 +1,4 @@
-# UWHS - UNESCO World Heritage Sites
+<img src="inst/UWHS.png">
 
 This is an **R** Dataset that contains information on the [**UNESCO World Heritage Sites**](http://whc.unesco.org/en/list/) (current as of the 2014 audit). There are 1006 sites included in the dataset with the following variables:
 
